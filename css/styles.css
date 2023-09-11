@@ -70,7 +70,7 @@ img {
   display: inline-flex;
   align-items: center;
   margin-right: 76px;
-  padding: 24px 0;
+  padding: 24px 0 24px
 }
 
 .logo-two-part{
@@ -158,6 +158,7 @@ img {
   gap: 10px;
   display: block;
   margin: 48px auto 0;
+  min-width: 169px;
 }
 
 .button:hover, 
